@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S/YEExQ8UKAQeDNNbLRooY+iwJAXPEl4yzbSWQJ4rDQ=",
+  "Source": "NewPaymentAPI",
+  "BasePath": "_content/NewPaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

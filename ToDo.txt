@@ -1,0 +1,6 @@
+
+Connection string sql server
+
+
+Server=localhost;Database=master;Trusted_Connection=True;
+

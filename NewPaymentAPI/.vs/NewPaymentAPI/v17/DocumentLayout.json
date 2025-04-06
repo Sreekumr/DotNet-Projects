@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNET projects\\NewPaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\migrations\\20250406071409_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:migrations\\20250406071409_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\models\\payementdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:models\\payementdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\controllers\\payementdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:controllers\\payementdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|d:\\dotnet projects\\newpaymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3259ED-3FA3-427A-829A-8309A9A53426}|NewPaymentAPI.csproj|solutionrelative:models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 201,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayementDetailController.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Controllers\\PayementDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PayementDetailController.cs",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Controllers\\PayementDetailController.cs",
+              "RelativeToolTip": "Controllers\\PayementDetailController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:23:01.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T17:33:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:41:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayementDetail.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Models\\PayementDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PayementDetail.cs",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Models\\PayementDetail.cs",
+              "RelativeToolTip": "Models\\PayementDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:16:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T07:49:02.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250406071409_First Migration.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Migrations\\20250406071409_First Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250406071409_First Migration.cs",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Migrations\\20250406071409_First Migration.cs",
+              "RelativeToolTip": "Migrations\\20250406071409_First Migration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:14:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\NewPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDetailContext.cs",
+              "ToolTip": "D:\\DotNET projects\\NewPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:30:12.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
